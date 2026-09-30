@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sblawt/static/css/main.f4826665.css",
+    "main.js": "/sblawt/static/js/main.027dd0ec.js",
+    "index.html": "/sblawt/index.html",
+    "main.f4826665.css.map": "/sblawt/static/css/main.f4826665.css.map",
+    "main.027dd0ec.js.map": "/sblawt/static/js/main.027dd0ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4826665.css",
+    "static/js/main.027dd0ec.js"
+  ]
+}
